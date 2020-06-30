@@ -1,6 +1,6 @@
 open class Hitung {
     open fun hasil():Int{
-        println("penambahan")
+        println("--------------------------------------------")
         return 0
     }
 }

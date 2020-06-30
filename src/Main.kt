@@ -11,7 +11,7 @@ fun main (args: Array<String>) {
 
     // menggunakan method
     calc.hasil()
-    println("penjumlahan : ${penjumlahan.hasil()}")
+    println("Hasil ${penjumlahan.number1} + ${penjumlahan.number2} = ${penjumlahan.hasil()}")
 }
 
 
